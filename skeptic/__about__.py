@@ -1,0 +1,10 @@
+__title__ = 'skeptic'
+__package_name__ = 'skeptic'
+__version__ = '0.1.0'
+__description__ = "A library for easy usage of predictive-power based statistics"
+__email__ = "george@cerebralab.com"
+__author__ = 'George Hosu'
+__github__ = 'https://github.com/George3d6/skeptic'
+__pypi__ = 'https://pypi.org/project/skeptic/'
+__license__ = 'BSD'
+__copyright__ = 'Copyright 2020 - George Hosu'
