@@ -1,6 +1,6 @@
 __title__ = 'skeptic'
 __package_name__ = 'skeptic'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __description__ = "A library for easy usage of predictive-power based statistics"
 __email__ = "george@cerebralab.com"
 __author__ = 'George Hosu'

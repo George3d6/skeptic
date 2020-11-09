@@ -1,5 +1,7 @@
 # Skeptic
 
+*Early concept stage, feedback is appreciated, but please note that this is not meant to be "useable" or "correct" yet, not even in an early alpha sort of way*
+
 A library for easy usage of predictive-power based statistics.
 
 ## Why use predictive power statistics ?
