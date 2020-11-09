@@ -30,11 +30,11 @@ Various other things that I might add if I find the time and there's some intere
 
 Roadmap for the feature from the heading above
 
-1 -- WIP - prototype done
-2 -- WIP - prototype done
-3 -- WIP - prototype done
-4 -- WIP - prototype done
-5 -- Not started yet
+1. - WIP - prototype done
+2. - WIP - prototype done
+3. - WIP - prototype done
+4. - WIP - prototype done
+5. - Not started yet
 
 ## Why make this library
 
