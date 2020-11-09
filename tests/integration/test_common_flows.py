@@ -18,4 +18,4 @@ class TestCommonFlow(unittest.TestCase):
         X, Y = csv_to_X_Y(PurePath(self.data_dir,'hdi.csv'), 'Development Index')
         correlation = correlate(X, Y)
         print(f'Got a correlation of: {correlation}')
-        self.assertTrue(correlation > 0.99)
+        self.assertTrue(correlation > 0.97)
